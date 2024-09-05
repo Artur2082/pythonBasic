@@ -1,9 +1,9 @@
-# list = [12, 3, 4, 10] # => [10, 12, 3, 4]
-# list = [1] # => [1]
-# list = [] # => []
-list = [12, 3, 4, 10, 8]  # => [8, 12, 3, 4, 10]
-if len(list) == 0:
-    print(list)
+# list1 = [12, 3, 4, 10] # => [10, 12, 3, 4]
+# list1 = [1] # => [1]
+# list1 = [] # => []
+list1 = [12, 3, 4, 10, 8]  # => [8, 12, 3, 4, 10]
+if len(list1) == 0:
+    print(list1)
 else:
-    list.insert(0, list.pop())
-    print(list)
+    list1.insert(0, list1.pop())
+    print(list1)
