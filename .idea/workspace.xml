@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW3.1">
-      <change afterPath="$PROJECT_DIR$/L3/Task_3.2.py" afterDir="false" />
+    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW2">
+      <change afterPath="$PROJECT_DIR$/L3/Task_3.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,6 @@
     "Python.Task_2.1.executor": "Run",
     "Python.Task_2.2.executor": "Run",
     "Python.Task_3.1.executor": "Run",
-    "Python.Task_3.2.executor": "Run",
     "Python.hello world.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -152,15 +151,7 @@
       <option name="project" value="LOCAL" />
       <updated>1725395340665</updated>
     </task>
-    <task id="LOCAL-00010" summary="HW3.1">
-      <option name="closed" value="true" />
-      <created>1725563632974</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1725563632974</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +168,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW" />
     <MESSAGE value="HW2" />
-    <MESSAGE value="HW3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
   </component>
 </project>
