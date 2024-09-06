@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW3.2">
+      <change afterPath="$PROJECT_DIR$/L3/Task_3.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/l_3_list.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/L3/l_3_list.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello world.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Hello World.executor": "Run",
+    "Python.Lesson 2.executor": "Run",
+    "Python.Task_2.1.executor": "Run",
+    "Python.Task_2.2.executor": "Run",
+    "Python.Task_3.1.executor": "Run",
+    "Python.Task_3.3.executor": "Run",
+    "Python.hello world.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L3" />
@@ -151,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725395340665</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HW3.2">
+      <option name="closed" value="true" />
+      <created>1725568735029</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725568735029</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HW3.2">
+      <option name="closed" value="true" />
+      <created>1725568847960</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725568847960</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW" />
     <MESSAGE value="HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
+    <MESSAGE value="HW3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3.2" />
   </component>
 </project>
