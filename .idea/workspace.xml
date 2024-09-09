@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW3.2">
-      <change afterPath="$PROJECT_DIR$/L3/Task_3.3.py" afterDir="false" />
+    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW3.3">
+      <change afterPath="$PROJECT_DIR$/L4/Task_4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/Task_4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L4/Task_4.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/l_3_list.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/L3/l_3_list.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,9 @@
     "Python.Task_2.2.executor": "Run",
     "Python.Task_3.1.executor": "Run",
     "Python.Task_3.3.executor": "Run",
+    "Python.Task_4.1.executor": "Run",
+    "Python.Task_4.2.executor": "Run",
+    "Python.Task_4.3.executor": "Run",
     "Python.hello world.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -62,6 +67,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L4" />
       <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L3" />
       <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L2" />
     </key>
@@ -170,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725568847960</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW3.3">
+      <option name="closed" value="true" />
+      <created>1725652866209</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725652866209</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +202,7 @@
     <MESSAGE value="HW" />
     <MESSAGE value="HW2" />
     <MESSAGE value="HW3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3.2" />
+    <MESSAGE value="HW3.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3.3" />
   </component>
 </project>
