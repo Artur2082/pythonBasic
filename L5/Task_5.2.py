@@ -17,7 +17,3 @@ while cont == 'Y':
     cont = input('Continue ? ')
     if cont != 'Y':
         print('Exit')
-
-
-
-
