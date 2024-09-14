@@ -14,6 +14,6 @@ while cont == 'Y':
             print('На нуль ділити не можна ! ')
         else:
             print(a, '/', b, '= ', a / b)
-    cont = input('Continue ? ')
+    cont = input('Для продовження роботи натисніть Y: ').upper()
     if cont != 'Y':
         print('Exit')
