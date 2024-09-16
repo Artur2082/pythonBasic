@@ -13,9 +13,3 @@ def sum (a,b):
     a = math.pow(a,2)
     return a+b
 print(sum(9,300))
-
-for greetings in range(len(a)):
-    print('Hello World')
-
-
-
