@@ -16,7 +16,7 @@ if 0 <= number <= 8640000:
         text = 'день'
     elif days.endswith('2') or days.endswith('3') or days.endswith('4'):
         text = 'дні'
-    date_format = "{} {}, {}:{}:{} ".format(days, text, hours, minutes, seconds)
+    date_format = "{} {}, {}:{}:{}".format(days, text, hours, minutes, seconds)
     print(date_format)
 else:
     print('Невірне число !')
