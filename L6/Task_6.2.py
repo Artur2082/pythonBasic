@@ -7,7 +7,7 @@ hours = (number - (days * sec_in_day)) // sec_in_hour
 minutes = (number - (days * sec_in_day) - (hours * sec_in_hour)) // sec_in_minute
 seconds = number % sec_in_minute
 if 0 <= number <= 8640000:
-    days = str(days).zfill(2)
+    days = str(days)
     hours = str(hours).zfill(2)
     minutes = str(minutes).zfill(2)
     seconds = str(seconds).zfill(2)
