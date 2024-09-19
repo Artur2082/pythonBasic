@@ -1,5 +1,4 @@
 def correct_sentence(text):
-    text = str(text)
     if not text.endswith('.'):
         text += '.'
     if text.count('.') > 1:
