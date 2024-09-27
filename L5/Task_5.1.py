@@ -1,7 +1,7 @@
 from keyword import kwlist
 from string import punctuation
 
-signs_set = punctuation.replace('_', '')
+signs_set = punctuation.replace('_', ' ')
 signs_lst = list(signs_set)
 result = True
 word = input('Введіть коректну назву змінної : ')
@@ -17,13 +17,7 @@ for w in word:
 if word.startswith('__'):
     result = False
     print(result)
-elif word.isdigit():
-    result = False
-    print(result)
 elif word[0].isdigit():
-    result = False
-    print(result)
-elif word.find(" ") != -1:
     result = False
     print(result)
 else:

@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW7.4">
-      <change afterPath="$PROJECT_DIR$/L8/Task_8.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L8/Task_8.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L8/Task_8.3.py" afterDir="false" />
+    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW8.3">
+      <change afterPath="$PROJECT_DIR$/L9/Task_9.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L9/l_11_func_generator.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L7/Task_7.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/L7/Task_7.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L5/Task_5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/L5/Task_5.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,8 @@
     "Python.Task_7.4.executor": "Run",
     "Python.Task_8.1.executor": "Run",
     "Python.Task_8.2.executor": "Run",
+    "Python.Task_8.3.executor": "Run",
+    "Python.Task_9.1.executor": "Run",
     "Python.hello world.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -80,11 +80,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L9" />
       <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L8" />
       <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L7" />
       <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L6" />
       <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L5" />
-      <recent name="C:\Users\Артур\PycharmProjects\pythonBasic\L4" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -327,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726816701385</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="HW8.3">
+      <option name="closed" value="true" />
+      <created>1727125371245</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727125371245</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,6 +360,7 @@
     <MESSAGE value="HW7.2" />
     <MESSAGE value="HW7.3" />
     <MESSAGE value="HW7.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW7.4" />
+    <MESSAGE value="HW8.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW8.3" />
   </component>
 </project>
