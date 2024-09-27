@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW8.3">
-      <change afterPath="$PROJECT_DIR$/L9/Task_9.1.py" afterDir="false" />
+    <list default="true" id="20e06e46-a5e4-4bed-bbf5-f8792b8fc697" name="Changes" comment="HW9.1">
       <change afterPath="$PROJECT_DIR$/L9/l_11_func_generator.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/Task_5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/L5/Task_5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L9/Task_9.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/L9/Task_9.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +71,7 @@
     "Python.Task_8.2.executor": "Run",
     "Python.Task_8.3.executor": "Run",
     "Python.Task_9.1.executor": "Run",
+    "Python.Task_9.2.executor": "Run",
     "Python.hello world.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -335,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727125371245</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="HW9.1">
+      <option name="closed" value="true" />
+      <created>1727454735262</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727454735262</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +369,7 @@
     <MESSAGE value="HW7.3" />
     <MESSAGE value="HW7.4" />
     <MESSAGE value="HW8.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW8.3" />
+    <MESSAGE value="HW9.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW9.1" />
   </component>
 </project>
