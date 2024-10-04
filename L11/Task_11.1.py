@@ -1,6 +1,5 @@
 from inspect import isgenerator
 
-
 def prime_generator(end):
     prime_numbers = []
     for number in range(2, end + 1):
