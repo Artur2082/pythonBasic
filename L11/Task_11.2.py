@@ -6,6 +6,7 @@ def generate_cube_numbers(end):
         number = pow(i, 3)
         if number <= end:
             yield number
+    return
 
 
 gen = generate_cube_numbers(1)
