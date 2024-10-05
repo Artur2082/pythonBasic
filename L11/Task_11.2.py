@@ -10,7 +10,6 @@ def generate_cube_numbers(end):
             return
 
 
-
 gen = generate_cube_numbers(1)
 assert isgenerator(gen) == True, 'Test0'
 assert list(generate_cube_numbers(10)) == [8], 'оскільки воно менше 10.'
