@@ -16,4 +16,19 @@ example_function()
 example_function()
 example_function()
 
+def add_decorator(number):
+    def decorator(func):
+        def wrapped(func_arg):
+            return func(func_arg) + number
+        return wrapped
+    return decorator
+
+@add_decorator(5)
+def example_function(x):
+    return x * 2
+
+print(example_function(2))
+print(example_function(0))
+print(example_function(-5))
+print(example_function(3))
 
