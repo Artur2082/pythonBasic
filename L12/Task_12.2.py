@@ -18,7 +18,7 @@ class User:
         self.numberphone = numberphone
 
     def __str__(self):
-        return f"{self.name}  {self.surname}"
+        return f"{self.name} {self.surname}"
 
 
 class Purchase:
@@ -46,7 +46,7 @@ class Purchase:
 lemon = Item('lemon', 5, "yellow", "small", )
 apple = Item('apple', 2, "red", "middle", )
 print(lemon)  # lemon, price: 5
-
+print(apple)
 buyer = User("Ivan", "Ivanov", "02628162")
 print(buyer)  # Ivan Ivanov
 
