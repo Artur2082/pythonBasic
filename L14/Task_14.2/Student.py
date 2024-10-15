@@ -1,5 +1,4 @@
-from L14.Human import *
-
+from Human import *
 
 class Student(Human):
 
