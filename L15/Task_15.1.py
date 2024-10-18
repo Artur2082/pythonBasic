@@ -18,8 +18,8 @@ class Rectangle:
 
     def __add__(self, other):
         if isinstance(other, Rectangle):
-            width = 1
-            height = self.get_square() + other.get_square()
+            width = self.width
+            height = (self.get_square() + other.get_square())/self.width
             return Rectangle(width, height)
         else:
             return NotImplemented
